@@ -1,0 +1,14 @@
+The challenge of making useful eval
+
+Using human exams to evaluate AI was a bold idea in 2021, but maybe a bad one in 2025.
+
+When intelligence was low, increasing it was aligned with utility.
+
+But now we have AI with PhD-level math and science knowledge/reasoning, IOI-level coding. They are much more intelligent than most humans on most exams, but much less useful than most humans on most real-world tasks.
+
+Figuring this out will be the most important thing for AI – I call it “the utility question”.
+
+And it’s mostly about evaluation, rather than training.
+
+Instead of extrapolating existing setups (e.g. exams), we need to pursue new setups.
+
